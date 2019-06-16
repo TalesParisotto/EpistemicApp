@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "791641769899",
+    "firebase_url": "https://epistemic-676a2.firebaseio.com",
+    "project_id": "epistemic-676a2",
+    "storage_bucket": "epistemic-676a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791641769899:android:a12e648440fd4a96",
+        "android_client_info": {
+          "package_name": "net.parisotto.epistemic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791641769899-r2l17ekchssc4qog1jfrutnnq0d9cfic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.parisotto.epistemic",
+            "certificate_hash": "29e16b246d71dbd502554a50782a6ae7607d4313"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7qYgHqQnGadkA9BWSBVpwM8DYx7gDVzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791641769899-k8aamj60difmb6tqur77fvjhdchdb47v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
